@@ -22,7 +22,7 @@ textarea,
 h1,
 h1 a
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:300;
 	line-height:1em;
@@ -33,7 +33,7 @@ h2 a,
 .pb-counter-box ul>li>div>div.pb-counter-box-text-counter,
 .pb-pricing-plan>ul>li>div .pb-pricing-plan-item-price-box .pb-pricing-plan-item-price-box-value
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:300;
 	line-height:1em;
@@ -45,7 +45,7 @@ h3 a,
 .pb-twitter-user-timeline .pb-twitter-user-timeline-text,
 .pb-twitter-user-timeline .pb-twitter-user-timeline-text a
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:300;
 	line-height:1.2em;
@@ -54,7 +54,7 @@ h3 a,
 h4,
 h4 a
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:400;
 	line-height:1.2em;
@@ -65,7 +65,7 @@ h5 a,
 h3.comment-reply-title,
 .pb-zaccordion .pb-zaccordion-caption-box .pb-zaccordion-caption-box-title
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:400;
 	line-height:1.2em;
@@ -81,7 +81,7 @@ div.pb-counter-list>ul>li>span.pb-counter-list-value,
 .pb-blockquote blockquote,
 .pb-blockquote blockquote p
 {
-	font-family:'Lato';
+	font-family:'Open Sans';
 	font-style:normal;
 	font-weight:400;
 	line-height:1.4em;
